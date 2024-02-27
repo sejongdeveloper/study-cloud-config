@@ -1,1 +1,2 @@
-message: Hello Account!
+app:
+  message: Hello Account!
